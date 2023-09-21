@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --button-bold: "SF Pro Display";
+  --font-jost: Jost;
+
+  /* font sizes */
+  --font-size-3xl: 22px;
+  --button-bold-size: 14px;
+  --font-size-xl: 20px;
+  --override-caption-size: 12px;
+  --button-small-size: 8px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --surface-surface-primary: #f1f1f1;
+  --text-text-secondary: #7c7c7c;
+  --surface-surface-invert: #202020;
+  --border-border-secondary: #afafaf;
+  --color-brand-color-4: #eba66c;
+  --pills-pills-background-orange: rgba(235, 166, 108, 0.25);
+  --color-brand-color-2: #362d86;
+  --pills-pills-background-purple: rgba(54, 45, 134, 0.25);
+  --surface-surface-brand: #2354ca;
+  --pills-pills-background-blue: rgba(35, 84, 202, 0.26);
+
+  /* Spacing */
+  --spacing-system-spacing-xlg: 24px;
+  --spacing-system-radius-md: 12px;
+  --spacing-system-spacing-xs: 8px;
+  --spacing-system-spacing-lg: 20px;
+  --spacing-system-spacing-xxs: 4px;
+  --spacing-system-spacing-s: 12px;
+  --spacing-system-radius-xlg: 20px;
+
+  /* Gaps */
+  --gap-9xs: 4px;
+  --gap-5xs: 8px;
+  --gap-7xs: 6px;
+
+  /* Paddings */
+  --padding-xs: 12px;
+  --padding-9xs: 4px;
+  --padding-8xs: 5px;
+  --padding-2xs: 11px;
+
+  /* Border radiuses */
+  --br-xs: 12px;
+  --br-xl: 20px;
+  --br-5xs: 8px;
+}
